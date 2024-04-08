@@ -3,7 +3,7 @@ import numpy as np
 import cv2
 import insightface
 from insightface.app import FaceAnalysis
-from PIL import Image
+#from PIL import Image
 
 st.set_page_config(page_title='reFace - Ilhom Jabborov')
 t1, t2 = st.columns((0.25,1))
