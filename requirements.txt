@@ -1,6 +1,6 @@
-streamlit 
-numpy = 1.26.4
-cv2 = 4.9.0
-Image = 10.2.0
-insightface = 0.7.3
+streamlit == 1.32.2
+numpy == 1.26.4
+cv2 ==4.9.0
+Image ==10.2.0
+insightface == 0.7.3
 FaceAnalysis
