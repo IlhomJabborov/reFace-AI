@@ -1,0 +1,6 @@
+streamlit
+numpy
+cv2
+Image
+insightface
+FaceAnalysis
